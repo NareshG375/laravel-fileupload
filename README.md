@@ -15,7 +15,7 @@ A simple Laravel project to demonstrate file uploads, storage, and migration set
 - Composer  
 - MySQL or another supported database  
 - Node.js & npm (optional for UI assets)  
-- Laravel ≥ 11 (or 8+)  
+- Laravel 12 (or 8+)  
 
 ## 🛠️ Installation
 
